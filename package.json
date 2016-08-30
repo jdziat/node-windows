@@ -1,36 +1,36 @@
 {
-  "name": "node-windows",
-  "version": "0.1.11",
-  "description": "Support for Windows services, event logging, UAC, and several helper methods for interacting with the OS.",
-  "keywords": [
-    "ngn",
-    "windows",
-    "service",
-    "daemon",
-    "logging",
-    "event",
-    "event logging",
-    "elevate",
-    "sudo",
-    "task"
-  ],
-  "author": "Corey Butler <corey@coreybutler.com>",
-  "devDependencies": {},
-  "main": "lib/node-windows.js",
-  "os": [
-    "win32"
-  ],
-  "preferGlobal": true,
-  "dependencies": {
-    "optimist": "~0.6.0",
-    "x2js": "^2.0.1"
-  },
-  "readmeFilename": "README.md",
-  "scripts": {},
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/coreybutler/node-windows.git"
-  },
-  "license": "MIT",
-  "engine": "node >= 0.10.10"
+    "name": "node-windows",
+    "version": "0.1.12",
+    "description": "Support for Windows services, event logging, UAC, and several helper methods for interacting with the OS.",
+    "keywords": [
+        "ngn",
+        "windows",
+        "service",
+        "daemon",
+        "logging",
+        "event",
+        "event logging",
+        "elevate",
+        "sudo",
+        "task"
+    ],
+    "author": "Corey Butler <corey@coreybutler.com>",
+    "devDependencies": {},
+    "main": "lib/node-windows.js",
+    "os": [
+        "win32"
+    ],
+    "preferGlobal": true,
+    "dependencies": {
+        "optimist": "~0.6.0",
+        "x2js": "^2.0.1"
+    },
+    "readmeFilename": "README.md",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/coreybutler/node-windows.git"
+    },
+    "license": "MIT",
+    "engine": "node >= 0.10.10"
 }
