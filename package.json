@@ -22,7 +22,8 @@
   ],
   "preferGlobal": true,
   "dependencies": {
-    "optimist": "~0.6.0"
+    "optimist": "~0.6.0",
+    "x2js": "^2.0.1"
   },
   "readmeFilename": "README.md",
   "scripts": {},
